@@ -1,0 +1,6 @@
+framework module Pods_SampleDeviceManager {
+  umbrella header "Pods-SampleDeviceManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
